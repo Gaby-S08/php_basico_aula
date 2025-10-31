@@ -29,3 +29,4 @@ $cor = $_SESSION["cor"];
     <a href="15d_logout.php">Sair</a>
 </body>
 </html>
+
